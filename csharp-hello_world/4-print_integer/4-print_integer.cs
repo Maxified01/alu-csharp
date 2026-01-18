@@ -1,10 +1,10 @@
 using System;
-
 class Program
 {
-    static void Main()
+    static void Main(string[] args)
     {
         int number = 972;
-        Console.WriteLine(number + " Mission Street");
+        string street = "Mission Street";
+        Console.WriteLine($"{number} {street}");
     }
 }
