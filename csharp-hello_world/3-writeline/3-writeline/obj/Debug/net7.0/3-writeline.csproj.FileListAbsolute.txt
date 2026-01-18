@@ -1,0 +1,14 @@
+C:\Users\Anthony\C#\alu_csharp\csharp-hello_world\3-writeline\3-writeline\bin\Debug\net7.0\3-writeline.exe
+C:\Users\Anthony\C#\alu_csharp\csharp-hello_world\3-writeline\3-writeline\bin\Debug\net7.0\3-writeline.deps.json
+C:\Users\Anthony\C#\alu_csharp\csharp-hello_world\3-writeline\3-writeline\bin\Debug\net7.0\3-writeline.runtimeconfig.json
+C:\Users\Anthony\C#\alu_csharp\csharp-hello_world\3-writeline\3-writeline\bin\Debug\net7.0\3-writeline.dll
+C:\Users\Anthony\C#\alu_csharp\csharp-hello_world\3-writeline\3-writeline\bin\Debug\net7.0\3-writeline.pdb
+C:\Users\Anthony\C#\alu_csharp\csharp-hello_world\3-writeline\3-writeline\obj\Debug\net7.0\3-writeline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anthony\C#\alu_csharp\csharp-hello_world\3-writeline\3-writeline\obj\Debug\net7.0\3-writeline.AssemblyInfoInputs.cache
+C:\Users\Anthony\C#\alu_csharp\csharp-hello_world\3-writeline\3-writeline\obj\Debug\net7.0\3-writeline.AssemblyInfo.cs
+C:\Users\Anthony\C#\alu_csharp\csharp-hello_world\3-writeline\3-writeline\obj\Debug\net7.0\3-writeline.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\C#\alu_csharp\csharp-hello_world\3-writeline\3-writeline\obj\Debug\net7.0\3-writeline.dll
+C:\Users\Anthony\C#\alu_csharp\csharp-hello_world\3-writeline\3-writeline\obj\Debug\net7.0\refint\3-writeline.dll
+C:\Users\Anthony\C#\alu_csharp\csharp-hello_world\3-writeline\3-writeline\obj\Debug\net7.0\3-writeline.pdb
+C:\Users\Anthony\C#\alu_csharp\csharp-hello_world\3-writeline\3-writeline\obj\Debug\net7.0\3-writeline.genruntimeconfig.cache
+C:\Users\Anthony\C#\alu_csharp\csharp-hello_world\3-writeline\3-writeline\obj\Debug\net7.0\ref\3-writeline.dll
