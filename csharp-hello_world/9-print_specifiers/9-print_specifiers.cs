@@ -9,4 +9,4 @@ class Program
         Console.WriteLine("Percent: {0:p2}", percent);  
         Console.WriteLine("Currency: {0:C2}", currency);    
     }
-}
+} 
