@@ -8,4 +8,4 @@ class Program
         str = str.Substring(31,27) + str.Substring(2, 1) + str.Substring(55, 2) + str.Substring(2, 1)+ str.Substring(0, 2);
         Console.WriteLine(str);
     }
-}
+} 

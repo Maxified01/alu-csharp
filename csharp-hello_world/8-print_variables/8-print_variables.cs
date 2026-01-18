@@ -9,4 +9,4 @@ class Program
         int int1 = 972;
         Console.WriteLine("{0} {1} {2}", int1, str2, str1);
     }
-}
+} 
