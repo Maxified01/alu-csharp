@@ -1,0 +1,14 @@
+C:\Users\Anthony\C#\alu_csharp\csharp-hello_world\5-print_float\bin\Debug\net7.0\5-print_float.exe
+C:\Users\Anthony\C#\alu_csharp\csharp-hello_world\5-print_float\bin\Debug\net7.0\5-print_float.deps.json
+C:\Users\Anthony\C#\alu_csharp\csharp-hello_world\5-print_float\bin\Debug\net7.0\5-print_float.runtimeconfig.json
+C:\Users\Anthony\C#\alu_csharp\csharp-hello_world\5-print_float\bin\Debug\net7.0\5-print_float.dll
+C:\Users\Anthony\C#\alu_csharp\csharp-hello_world\5-print_float\bin\Debug\net7.0\5-print_float.pdb
+C:\Users\Anthony\C#\alu_csharp\csharp-hello_world\5-print_float\obj\Debug\net7.0\5-print_float.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anthony\C#\alu_csharp\csharp-hello_world\5-print_float\obj\Debug\net7.0\5-print_float.AssemblyInfoInputs.cache
+C:\Users\Anthony\C#\alu_csharp\csharp-hello_world\5-print_float\obj\Debug\net7.0\5-print_float.AssemblyInfo.cs
+C:\Users\Anthony\C#\alu_csharp\csharp-hello_world\5-print_float\obj\Debug\net7.0\5-print_float.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\C#\alu_csharp\csharp-hello_world\5-print_float\obj\Debug\net7.0\5-print_float.dll
+C:\Users\Anthony\C#\alu_csharp\csharp-hello_world\5-print_float\obj\Debug\net7.0\refint\5-print_float.dll
+C:\Users\Anthony\C#\alu_csharp\csharp-hello_world\5-print_float\obj\Debug\net7.0\5-print_float.pdb
+C:\Users\Anthony\C#\alu_csharp\csharp-hello_world\5-print_float\obj\Debug\net7.0\5-print_float.genruntimeconfig.cache
+C:\Users\Anthony\C#\alu_csharp\csharp-hello_world\5-print_float\obj\Debug\net7.0\ref\5-print_float.dll
