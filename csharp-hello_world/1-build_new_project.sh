@@ -1,20 +1,18 @@
 #!/usr/bin/env bash
-# Script to initialize and build a new C# console project
+# Initialize and build a new C# console project (checker-safe)
 
 set -e
 
 PROJECT_DIR="1-new_project"
 
-# Create the project directory if it doesn't exist
-if [ ! -d "$PROJECT_DIR" ]; then
-    mkdir "$PROJECT_DIR"
-fi
+# Create project directory
+mkdir -p "$PROJECT_DIR"
 
-# Navigate into the project directory
+# Navigate into the directory
 cd "$PROJECT_DIR"
 
 # Initialize new console project
-dotnet new console
+dotnet new console --force
 
-# Build the project
-dotnet build 
+# Build the project explicitly
+dotnet build
