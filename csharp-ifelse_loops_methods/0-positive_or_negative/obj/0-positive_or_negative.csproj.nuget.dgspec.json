@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Anthony\\alu-csharp\\csharp-hello_world\\0-new_project\\0-new_project.csproj": {}
+    "C:\\Users\\Anthony\\alu-csharp\\csharp-ifelse_loops_methods\\0-positive_or_negative\\0-positive_or_negative.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Anthony\\alu-csharp\\csharp-hello_world\\0-new_project\\0-new_project.csproj": {
+    "C:\\Users\\Anthony\\alu-csharp\\csharp-ifelse_loops_methods\\0-positive_or_negative\\0-positive_or_negative.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Anthony\\alu-csharp\\csharp-hello_world\\0-new_project\\0-new_project.csproj",
-        "projectName": "0-new_project",
-        "projectPath": "C:\\Users\\Anthony\\alu-csharp\\csharp-hello_world\\0-new_project\\0-new_project.csproj",
+        "projectUniqueName": "C:\\Users\\Anthony\\alu-csharp\\csharp-ifelse_loops_methods\\0-positive_or_negative\\0-positive_or_negative.csproj",
+        "projectName": "0-positive_or_negative",
+        "projectPath": "C:\\Users\\Anthony\\alu-csharp\\csharp-ifelse_loops_methods\\0-positive_or_negative\\0-positive_or_negative.csproj",
         "packagesPath": "C:\\Users\\Anthony\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Anthony\\alu-csharp\\csharp-hello_world\\0-new_project\\obj\\",
+        "outputPath": "C:\\Users\\Anthony\\alu-csharp\\csharp-ifelse_loops_methods\\0-positive_or_negative\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Anthony\\AppData\\Roaming\\NuGet\\NuGet.Config"
