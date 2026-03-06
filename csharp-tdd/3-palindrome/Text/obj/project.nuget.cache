@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3dtjB1+1fU1/PN5c3/sypMw3t62kAuRU52Zp4SLB2KNuoa6euhBw/qD4uMCmZ2OggUvsaAN+QSilejP1xXW8ZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Anthony\\alu-csharp\\csharp-tdd\\3-palindrome\\Text\\Text.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anthony\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Anthony\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
